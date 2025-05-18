@@ -1,1 +1,4 @@
 data.zip
+data/
+data_split/
+.DS_Store
